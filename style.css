@@ -1,0 +1,42 @@
+*  {
+      padding:0;
+      margin:0;
+}
+
+body  {
+    
+      text-align: center;
+      font-family: tahoma, sans-serif;
+      color: darkslategray;
+      background: url(/Users/ivangruev/Desktop/pictures.html/cyrus-crossan-Ht8W52PS3oA-unsplash.jpg);
+      background-color: white;
+}
+
+main {
+      width: 80%;
+      border: 1px solid lightgray;
+      margin: 10px auto;
+      max-width: 640px;
+      padding: 10px;
+}
+
+p {
+      text-align: center;
+      margin: 16px 0;
+      padding: 10px;
+}
+
+ landmark img {
+     border-radius:  50%;
+     max-width: 100%;
+}
+
+
+h1, h2, h3 {
+     background-color: #eeeeee;
+     color: #666666;
+     text-shadow: Ipx Ipx Opx #000000;
+     text-align: center;
+     margin: 16px 0;
+     color: brown;
+     }
